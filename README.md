@@ -3,4 +3,4 @@
 </h1>
 
 
-<p> This is the same as it but it made for https://render.com to run as web service in there </p>
+<p>This is the same project as the link above but it made for https://render.com to run as a web service</p>
